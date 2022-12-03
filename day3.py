@@ -1,0 +1,2 @@
+gedit init.txt &
+
